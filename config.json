@@ -1,7 +1,7 @@
 {
-  "wwise_player": 0,
-  "gmp_browser": 0,
-  "image_viewer": 0,
-  "hex_viewer": 0,
-  "text_viewer": 0
+  "wwise_player": 1,
+  "gmp_browser": 1,
+  "image_viewer": 1,
+  "hex_viewer": 1,
+  "text_viewer": 1
 }
